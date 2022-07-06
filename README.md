@@ -20,7 +20,9 @@ Aluno da Plataforma Staart
 - Box-Model
 - Conhecimento em atributos:
 - Contenteditable
-- DraggableConhecimento em Formulário
+- Draggable
+
+- Conhecimento em Formulário
 - Form
 - Fieldset
 - Legend 
