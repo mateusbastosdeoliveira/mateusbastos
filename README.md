@@ -1,6 +1,12 @@
 # Seja bem-vindo(a) ao meu perfil 
 
-Olá, meu nome é Mateus
+
+![153129474_3552983994828514_5470221408806240512_n](https://user-images.githubusercontent.com/105644793/177574251-6a87be7c-2f73-490d-ac93-b928c2138a90.jpg)
+
+
+Olá, meu nome é Mateus, idade 22 anos.
+
+Aluno da Plataforma Staart
 
 # Formação Acadêmica
 - USCS (Universidade Municipal de São Caetano do Sul) - Gestão de Tecnologia da Informação - Formado
