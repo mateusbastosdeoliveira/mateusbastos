@@ -8,46 +8,46 @@ Olá, meu nome é Mateus
 
 
 ## Conhecimento em Front-End
-HTML
-Conhecimento na Ferramenta online CodePen
-Box-Model
-Conhecimento em atributos:
-Contenteditable
-DraggableConhecimento em Formulário
-Form
-Fieldset
-Legend 
-Label
-Atributo Required
+-HTML
+-Conhecimento na Ferramenta online CodePen
+-Box-Model
+-Conhecimento em atributos:
+-Contenteditable
+-DraggableConhecimento em Formulário
+-Form
+-Fieldset
+-Legend 
+-Label
+-Atributo Required
 
 
-CSS
-Animações
-Flex-Direction
-Justify-Content
-Align-Items
-Media
+## CSS
+-Animações
+-Flex-Direction
+-Justify-Content
+-Align-Items
+-Media
 
 
-JavaScript
-Conhecimento em Estrutura de Dados JS:
-Arrays
-Function Reduce
-Operação Array usando Callback
+## JavaScript
+-Conhecimento em Estrutura de Dados JS:
+-Arrays
+-Function Reduce
+-Operação Array usando Callback
 
 
-Conhecimento no WSL (Windows Terminal para utilizar Linux no Windows)
-Uso da Ferramenta Visual Studio Code
+-Conhecimento no WSL (Windows Terminal para utilizar Linux no Windows)
+-Uso da Ferramenta Visual Studio Code
 
 
-Conhecimento em Git e Git Hub
-Repositório
-Branches
-Pull Requests
-Instalação e Configuração do Git
-Proteção de Branches
+-Conhecimento em Git e Git Hub
+-Repositório
+-Branches
+-Pull Requests
+-Instalação e Configuração do Git
+-Proteção de Branches
 
 
-Conhecimento no Framework Bootstrap
-Aprendendo React
-Aprendendo Node.Js
+-Conhecimento no Framework Bootstrap
+-Aprendendo React
+-Aprendendo Node.Js
