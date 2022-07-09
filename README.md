@@ -59,6 +59,19 @@ Aluno da Plataforma Staart
 - Aprendendo React
 - Aprendendo Node.Js
 
+## Git e GitHub
+
+- git diff
+- git log
+- git show
+- git add e git commit
+- git diff
+- Conceito de merge
+- Resolução de conflito no merge
+
+
+
+
 ##  Contato 
 - Whatsapp (11943460703)
 - Email: mateusbastosoliveira1920@gmail.com
