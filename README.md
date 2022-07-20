@@ -15,6 +15,9 @@ Aluno da Plataforma Staart
 
 ## Conhecimento em Front-End
 
+- Conhecimento no WSL (Windows Terminal para utilizar Linux no Windows)
+- Uso da Ferramenta Visual Studio Code
+
 ## HTML
 - Conhecimento na Ferramenta online CodePen
 - Box-Model
@@ -44,22 +47,32 @@ Aluno da Plataforma Staart
 - Function Reduce
 - Operação Array usando Callback
 
+## React 
+- Conhecimento em componentes
 
-- Conhecimento no WSL (Windows Terminal para utilizar Linux no Windows)
-- Uso da Ferramenta Visual Studio Code
 
 
-- Conhecimento em Git e Git Hub
-- Repositório
-- Branches
-- Pull Requests
-- Instalação e Configuração do Git
-- Proteção de Branches
+
+
+## Git e GitHub
+
+- git diff
+- git log
+- git show
+- git add e git commit
+- git diff
+- Conceito de merge
+- Resolução de conflito no merge
+
 
 
 - Conhecimento no Framework Bootstrap
-- Aprendendo React
-- Aprendendo Node.Js
+- Conhecimento em Node.Js
+
+
+
+
+
 
 ##  Contato 
 - Whatsapp (11943460703)
